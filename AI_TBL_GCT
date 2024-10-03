@@ -12,10 +12,10 @@ import os
 
 # Path ke file PDF lo (ganti sesuai tempat file lo bro)
 pdf_files = {
-    "TBL4": r"C:\Users\allam\Downloads\TBL4.pdf",
-    "TBL3": r"C:\Users\allam\Downloads\TBL3.pdf",
-    "TBL2": r"C:\Users\allam\Downloads\TBL2.pdf",
-    "TBL1": r"C:\Users\allam\Downloads\TBL1.pdf"
+    "TBL1": r"Materi Referensi/Urinary Tract Infection Core Curriculum 2024.pdf",
+    "TBL2": r"Materi Referensi/the role of metabolomics and microbiology in UTI.pdf",
+    "TBL3": r"Materi Referensi/Pharmacological properties of oral antibiotics for the treatment of uncomplicated urinary tract infections.pdf",
+    "TBL4": r"Materi Referensi/EAU-Guidelines-on-Urological-Infections-2024.pdf"
 }
 
 # Buat reader OCR-nya
