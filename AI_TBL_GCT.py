@@ -1,4 +1,4 @@
-!pip install streamlit transformers PyMuPDF pdfplumber easyocr pillow numpy tf-keras
+pip install streamlit transformers PyMuPDF pdfplumber easyocr pillow numpy tf-keras
 import streamlit as st
 from transformers import pipeline
 import fitz  # Buat ekstrak gambar dari PDF
