@@ -1,4 +1,5 @@
 import streamlit as st
+import transformers
 from transformers import pipeline
 import fitz  # Buat ekstrak gambar dari PDF
 import pdfplumber  # Buat ekstrak teks dan tabel
