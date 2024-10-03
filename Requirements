@@ -1,7 +1,7 @@
-streamlit
-transformers
-PyMuPDF
-pdfplumber
-easyocr
-pillow
-numpy
+streamlit==1.12.0
+transformers==4.11.3
+PyMuPDF==1.19.6
+pdfplumber==0.6.0
+easyocr==1.4
+pillow==8.4.0
+numpy==1.21.4
